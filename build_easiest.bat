@@ -3,6 +3,10 @@ echo ==================================================
 echo DslsOS Easiest Build Script
 echo ==================================================
 
+REM First clean any existing build cache
+echo Cleaning build cache...
+call clean_build.bat >nul 2>nul
+
 REM Backup original CMakeLists.txt
 if exist CMakeLists.txt (
     copy CMakeLists.txt CMakeLists_backup.txt >nul 2>nul
