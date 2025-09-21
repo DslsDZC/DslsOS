@@ -1,0 +1,12 @@
+cmake_minimum_required(VERSION 3.10)
+project(DslsOS C)
+
+set(CMAKE_C_STANDARD 11)
+
+# Add executable directly
+add_executable(dslsos minimal_dslos.c)
+
+# Set properties
+set_target_properties(dslsos PROPERTIES
+    C_STANDARD 11
+)

@@ -4,13 +4,9 @@
         {
             "name": "windows-base",
             "hidden": true,
-            "generator": "Ninja",
+            "generator": "Unix Makefiles",
             "binaryDir": "${sourceDir}/out/build/${presetName}",
             "installDir": "${sourceDir}/out/install/${presetName}",
-            "cacheVariables": {
-                "CMAKE_C_COMPILER": "cl.exe",
-                "CMAKE_CXX_COMPILER": "cl.exe"
-            },
             "condition": {
                 "type": "equals",
                 "lhs": "${hostSystemName}",
@@ -60,7 +56,7 @@
         {
             "name": "linux-debug",
             "displayName": "Linux Debug",
-            "generator": "Ninja",
+            "generator": "Unix Makefiles",
             "binaryDir": "${sourceDir}/out/build/${presetName}",
             "installDir": "${sourceDir}/out/install/${presetName}",
             "cacheVariables": {
@@ -80,7 +76,7 @@
         {
             "name": "macos-debug",
             "displayName": "macOS Debug",
-            "generator": "Ninja",
+            "generator": "Unix Makefiles",
             "binaryDir": "${sourceDir}/out/build/${presetName}",
             "installDir": "${sourceDir}/out/install/${presetName}",
             "cacheVariables": {
