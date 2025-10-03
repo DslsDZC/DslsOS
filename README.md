@@ -506,7 +506,7 @@ NTSTATUS PsGetProcessStatistics(HANDLE ProcessHandle, PPROCESS_STATS Stats);
 
 ## License
 
-DslsOS is released under the MIT License. See LICENSE file for details.
+DslsOS is released under the GNU General Public License v3.0 License. See LICENSE file for details.
 
 ## Support
 
