@@ -4,6 +4,7 @@
 
 [![Static Badge](https://img.shields.io/badge/License_GPLv3-0?logo=gnu&color=8A2BE2)](https://github.com/DslsDZC/DslsOS/blob/main/LICENSE.txt)
 [![Discord](https://img.shields.io/discord/1423859793101328386?logo=discord&labelColor=%20%235462eb&logoColor=%20%23f5f5f5&color=%20%235462eb)](https://discord.gg/xz5pEK7XRR)
+[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/DslsDZC/DslsOS)
 
 ## 概要
 
