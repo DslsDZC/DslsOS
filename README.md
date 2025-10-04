@@ -2,7 +2,7 @@
 
 English / [简体中文](README_CN.md) / [日本語](README_JP.md) / [Français](README_FR.md) / [Deutsch](README_DE.md)
 
-![Static Badge](https://img.shields.io/badge/License_GPLv3-0?logo=gnu&color=8A2BE2)
+[![Static Badge](https://img.shields.io/badge/License_GPLv3-0?logo=gnu&color=8A2BE2)](https://github.com/DslsDZC/DslsOS/blob/main/LICENSE.txt)
 [![Discord](https://img.shields.io/discord/1423859793101328386?logo=discord&labelColor=%20%235462eb&logoColor=%20%23f5f5f5&color=%20%235462eb)](https://discord.gg/xz5pEK7XRR)
 [![QQ Group](https://img.shields.io/badge/QQ%20Community-331369114-blue)](https://qm.qq.com/q/IIIVoY5m8y)
 
