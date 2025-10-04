@@ -3,6 +3,7 @@
 [English](README.md) / **简体中文** / [日本語](README_JP.md) / [Français](README_FR.md) / [Deutsch](README_DE.md)
 
 ![Static Badge](https://img.shields.io/badge/License_GPLv3-0?logo=gnu&color=8A2BE2)
+[![QQ Group](https://img.shields.io/badge/%E7%A4%BE%E5%8C%BAQQ%E7%BE%A4-331369114-blue)](https://qm.qq.com/q/IIIVoY5m8y)
 
 ## 概述
 

@@ -3,6 +3,8 @@
 English / [简体中文](README_CN.md) / [日本語](README_JP.md) / [Français](README_FR.md) / [Deutsch](README_DE.md)
 
 ![Static Badge](https://img.shields.io/badge/License_GPLv3-0?logo=gnu&color=8A2BE2)
+[![QQ Group](https://img.shields.io/badge/QQ%20Community-331369114-blue)](https://qm.qq.com/q/IIIVoY5m8y)'
+
 ## Overview
 
 DslsOS is a modern operating system featuring a microkernel architecture with advanced distributed computing capabilities. Designed to provide efficient, secure, and flexible runtime environments for diverse computing scenarios, it combines the stability of microkernel design with the power of distributed systems.
