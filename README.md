@@ -137,6 +137,7 @@ Gratitude to all developers who contributed code, documentation, and suggestions
 ## Star
 
 [![Star History Chart](https://api.star-history.com/svg?repos=DslsDZC/DslsOS&type=Date)](https://star-history.com/#DslsDZC/DslsOS&Date)
+![](https://repobeats.axiom.co/api/embed/035bf80bf2a7c84a9e7fc079d4b8b446edce7d1c.svg)
 
 ---
 
